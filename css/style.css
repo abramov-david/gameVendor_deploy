@@ -554,6 +554,7 @@ body {
 .main {
   background-color: #f9fafb;
   padding: 0 24px;
+  overflow-x: hidden !important;
   /* QUESTION BLOCK */
 }
 
