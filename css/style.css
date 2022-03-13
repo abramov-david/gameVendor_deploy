@@ -161,6 +161,7 @@
   -ms-grid-column-align: center;
       justify-self: center;
   max-width: 250px;
+  margin: 0 auto;
 }
 
 .card--main {
