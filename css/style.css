@@ -553,14 +553,13 @@ body {
 
 .main {
   background-color: #f9fafb;
-  padding: 0 24px;
-  overflow-x: hidden !important;
   /* QUESTION BLOCK */
 }
 
 .main__content {
   max-width: 1269px;
   margin: 0 auto;
+  padding: 0 24px;
 }
 
 .main__title {
