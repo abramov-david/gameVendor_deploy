@@ -157,11 +157,11 @@
 }
 
 .card__img {
-  margin-bottom: 2rem;
   -ms-grid-column-align: center;
       justify-self: center;
   max-width: 250px;
   margin: 0 auto;
+  margin-bottom: 2rem;
 }
 
 .card--main {
