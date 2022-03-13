@@ -461,7 +461,7 @@ body {
 .main__content {
   max-width: 1269px;
   margin: 0 auto;
-  /* padding: 0 24px; */
+  margin: 0 24px;
 }
 .main__title {
   color: #101828;
